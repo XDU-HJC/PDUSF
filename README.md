@@ -1,7 +1,7 @@
 # PDUSF
 
 
-## The top-down view of the entire trajectory in the Habitat simulator. 
+## 1. The top-down view of the entire trajectory in the Habitat simulator. 
 ### Baseline
 ![Trapped](video_1.gif)
 ###
