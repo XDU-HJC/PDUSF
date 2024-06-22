@@ -18,6 +18,6 @@
 </div>
 
 ### 5.3 PDUSF cross-domain in MP3D and MP3D.
-% <div align="center">
-%     <img src="video_3.gif" />
-% </div>
+ <div align="center">
+    <img src="video_3.gif" />
+ </div>
