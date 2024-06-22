@@ -12,9 +12,8 @@
 ### 4.1 Eval in MP3D datasets
 ## 5. The top-down view of the entire trajectory in the Habitat simulator. 
 ### 5.1 The Baseline agent got stuck in specific locations.
-![Trapped](video_1.gif)
 <div align="center">
-    <img src="video_3.gif" />
+    <img src="video_1.gif" />
 </div>
 ### 5.2 PDUSF PK Baseline in Gibson datasets.
 ![](video_2.gif)
