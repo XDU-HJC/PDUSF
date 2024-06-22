@@ -1,5 +1,5 @@
 # PDUSF
-A New Representation of Universal Successor Features for Enhancing the Generalization of Target-Driven Visual Navigation
+Implementation of our paper A New Representation of Universal Successor Features for Enhancing the Generalization of Target-Driven Visual Navigation
 ## 0. Overview
 ## 1. Install 
 ## 2. Prepare dataset
