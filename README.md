@@ -3,7 +3,7 @@
 
 ## The top-down view of the entire trajectory in the Habitat simulator. 
 ### Baseline
-![](video_1.gif)
+![Trapped](video_1.gif)
 ###
 ![](video_2.gif)
 ### 
