@@ -16,6 +16,10 @@
     <img src="video_1.gif" />
 </div>
 ### 5.2 PDUSF PK Baseline in Gibson datasets.
-![](video_2.gif)
+<div align="center">
+    <img src="video_2.gif" />
+</div>
 ### 5.3 PDUSF cross-domain in MP3D and MP3D.
-![](video_3.gif)
+<div align="center">
+    <img src="video_3.gif" />
+</div>
