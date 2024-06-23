@@ -22,5 +22,7 @@
     <img src="video_3.gif" />
  </div>
  
-##
-[](https://github.com/XinyuSun/FGPrompt)
+## Acknowledgments
+This code is heavily inspired by the following works:
+
+[Sun's FGPrompt pytorch implementation: ] (https://github.com/XinyuSun/FGPrompt)
