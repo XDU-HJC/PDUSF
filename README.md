@@ -25,8 +25,8 @@
 ## Acknowledgments
 This code is heavily inspired by the following works:
 
-Kostrikov's A3C pytorch implementation: https://github.com/ikostrikov/pytorch-a3c
+1. Kostrikov's A3C pytorch implementation: https://github.com/ikostrikov/pytorch-a3c
 
-Sun's FGPrompt pytorch implementation:  https://github.com/XinyuSun/FGPrompt
+2. Sun's FGPrompt pytorch implementation:  https://github.com/XinyuSun/FGPrompt
 
-Facebook's Habitat-smi pytorch implementation: https://github.com/facebookresearch/habitat-sim
+3. Facebook's Habitat-smi pytorch implementation: https://github.com/facebookresearch/habitat-sim
