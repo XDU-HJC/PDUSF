@@ -4,20 +4,20 @@ Implementation of our paper A New Representation of Universal Successor Features
 ## 1. Install :rocket: 
 ## 2. Prepare dataset 🗂️
 ## 3. Run ImageNav Training 🕹️
-## 4. Run Evaluation! 😄
+## 4. Run Evaluation! 💡
 ## 5. The top-down view of the entire trajectory in the Habitat simulator. 🎧
 
-### 5.1 The Baseline agent got stuck in specific locations. 
+### 5.1 The Baseline agent got stuck in specific locations. ☹️
 <div align="center">
     <img src="video_1.gif" />
 </div>
 
-### 5.2 PDUSF PK Baseline in Gibson datasets.
+### 5.2 PDUSF PK Baseline in Gibson datasets. 😀
 <div align="center">
     <img src="video_2.gif" />
 </div>
 
-### 5.3 PDUSF cross-domain in MP3D and MP3D.
+### 5.3 PDUSF cross-domain in MP3D and MP3D. 😄
  <div align="center">
     <img src="video_3.gif" />
  </div>
