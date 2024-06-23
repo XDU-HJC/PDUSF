@@ -5,9 +5,9 @@ Implementation of our paper A New Representation of Universal Successor Features
 ## 2. Prepare dataset 🗂️
 ## 3. Run ImageNav Training 🕹️
 ## 4. Run Evaluation! 😄
-## 5. The top-down view of the entire trajectory in the Habitat simulator. 
+## 5. The top-down view of the entire trajectory in the Habitat simulator. 🎧
 
-### 5.1 The Baseline agent got stuck in specific locations. 🎧
+### 5.1 The Baseline agent got stuck in specific locations. 
 <div align="center">
     <img src="video_1.gif" />
 </div>
