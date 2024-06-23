@@ -25,4 +25,4 @@
 ## Acknowledgments
 This code is heavily inspired by the following works:
 
-[Sun's FGPrompt pytorch implementation: ] (https://github.com/XinyuSun/FGPrompt)
+Sun's FGPrompt pytorch implementation:  https://github.com/XinyuSun/FGPrompt
