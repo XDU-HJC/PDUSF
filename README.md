@@ -4,7 +4,7 @@
 ## 1. Install :rocket: 
 ## 2. Prepare dataset 🗂️
 ## 3. Run ImageNav Training 🕹️
-## 4. Run Evaluation! 💡
+## 4. Run Evaluation 💡
 ## 5. The top-down view of the entire trajectory in the Habitat simulator. 🎧
 
 ### 5.1 The Baseline agent got stuck in specific locations. ☹️
