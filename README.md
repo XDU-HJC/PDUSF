@@ -1,5 +1,5 @@
 # :robot: PDUSF 
-💌 Implementation of our work A New Representation of Universal Successor Features for Enhancing the Generalization of Target-Driven Visual Navigation
+💌 Implementation of our work “A New Representation of Universal Successor Features for Enhancing the Generalization of Target-Driven Visual Navigation”
 ## 0. Overview
 ## 1. Install :rocket: 
 ## 2. Prepare dataset 🗂️
