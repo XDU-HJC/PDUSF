@@ -63,7 +63,7 @@ class ActorCritic(torch.nn.Module):
 
     def forward(self, state_input, target_input):
 
-
+        # 这里可以使用RNN之类的循环神经网络，但这个在AI2thor数据集上几乎没啥作用，在Habitat模拟器的数据集可以使用RNN而不是连续多帧
         state_input = state_input.reshape(state_input.size(0), -1)
         target_input = target_input.reshape(target_input.size(0), -1)
 
