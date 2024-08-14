@@ -49,7 +49,7 @@ def build_parser(
         #required=True,
         help="run type of the experiment (train or eval)",
     )
-    # early-fusion文件使用两个Backbone也就是没有参数共享的Baseline，但用的PPO不是A3C并且添加了RNN
+    # early-fusion文件使用两个Backbone也就是没有参数共享的Baseline，但用的PPO不是A3C并且添加了RNN，补充数据集采用的是RNN建模而不是连续多帧
     parser.add_argument(
         "--exp-config",
         type=str,
